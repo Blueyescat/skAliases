@@ -942,8 +942,8 @@ default aliases:
 	dragon(_| )egg¦s = 122
 	ender[(_| )]dragon(_| )egg¦s(_| )@an = 122
 
-	(inactive|unpowered|unlit)(_| )restone(_| )lamp¦s = 123
-	restone(_| )lamp¦(_| )off¦s(_| )off = 123
+	(inactive|unpowered|unlit)(_| )redstone(_| )lamp¦s = 123
+	redstone(_| )lamp¦(_| )off¦s(_| )off = 123
 	redstone(_| )lamp¦s = 123, 124
 	(active|glowing|powered|lit)(_| )redstone(_| )lamp¦s = 124
 	redstone(_| )lamp¦(_| )on¦s(_| )on = 124
